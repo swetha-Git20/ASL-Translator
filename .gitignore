@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large video files (2000+ sign language videos)
+videos/
+
+# Large Vosk model (download separately)
+vosk_models/vosk-model-en-us-0.42-gigaspeech/
+
+# Trained model files
+vosk_models/models/
+*.pkl
+
+# Audio samples
+vosk_models/*.wav
+vosk_models/*.m4a
+
+# ASL alphabet dataset
+asl-alphabets/alphabet_dataset/
+
+# Qodo
+.qodo/
