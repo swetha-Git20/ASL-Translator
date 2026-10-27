@@ -96,7 +96,7 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 matplotlib==3.10.8
 mdurl==0.1.2
-mediapipe==0.10.9
+mediapipe==0.10.14
 ml-dtypes==0.4.1
 moviepy==2.2.1
 mpmath==1.3.0
